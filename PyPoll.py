@@ -6,11 +6,26 @@ print("The time right now is", now)
 
 # Import the data file
 import csv 
-file_to_load = /Resource/election_results.csv
+import os
+file_to_load = os.path.join("Resources", "election_results.csv")
+with open(file_to_load) as election_data:
+    # To do: Read and analyze the data here.
+    file_reader = csv.reader(election_data)
 
-with open(file_to_load,'r') as election_data:
-    print(election_data)
+    #Print the header row.
+    headers = next(file_reader)
+    print(headers)
+    #Print each row in the CSV file.
+    for row in file_reader:
+        print(row)
 
+file_to_save = os.path.join("analysis", "election_analysis.txt")
+with open(file_to_save, "w") as txt_file:
+
+    txt_file.write("Counties in the Election\n")
+    txt_file.write("-------------------------\n")
+    txt_file.write("Arapahoe\nDenver\nJefferson")
+    
 
 #1. The total number of votes case
 
