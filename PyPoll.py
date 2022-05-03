@@ -56,7 +56,7 @@ with open(file_to_save,"w") as txt_file:
     txt_file.write(election_results)
      
     for candidate_name in candidate_votes:
-        # Get vote candidat for each candidate
+        # Get vote candidate for each candidate
         votes = candidate_votes[candidate_name]
         # Calculate percentage vote
         vote_percentage = float(votes) / float(total_votes) *100
