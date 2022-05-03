@@ -28,7 +28,38 @@ The analysis of the elections showed:
     - Diana Degette who recevied 73.8% of the votes, which is 272,892 votes. 
 
 ## Challenge Overview
+Overview of Election-Audit:
 
-## Challenge Summary 
+In addition to the previously performed audit, the Colorado Board of Elections would like to see more result analysis. 
+1. The number of the voter turnout by county. 
+2. The percetage of the voter turnout by county.
+3. The county that had the highest turnout.
+
+## Challenge Summary
+
+
+Election-Audit Results: 
+- The total number of votes casted in the precinct for this congressional election: 
+    - 369,711 votes.
+- The total number of total votes in each county:
+    - Jefferson County had 38,855 votes, 10.51% of the total votes.
+    - Denver County had 306,055 votes, 82.78% of the total votes.
+    - Arapahoe County had 24,801 votes, 6.71% of the total votes. 
+- The county with the largest number of votes:
+    - Denver County with 306,055 votes.
+- The election results by candidate:
+    - Charles Casper Stockham received 85,213 votes, 23% of the total votes
+    - Diana DeGette received 272,892 votes, 73.8% of the total votes.
+    - Raymon Anthony Doane received 11,606 votes, 3.1% of the total votes.
+- The winning candidate of this election:
+    - Diana DeGette won the election with 272,892 votes, 73.8% of the total votes.
+
+Election-Audit Summary:
+
+
+ In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+
+
 
 
