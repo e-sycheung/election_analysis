@@ -37,7 +37,7 @@ In addition to the previously performed audit, the Colorado Board of Elections w
 
 ## Challenge Summary
 
-
+![County Results](/repository/Practice_Code_&Img/county_result.png?raw=true "County Results")
 Election-Audit Results: 
 - The total number of votes casted in the precinct for this congressional election: 
     - 369,711 votes.
