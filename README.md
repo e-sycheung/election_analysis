@@ -45,6 +45,7 @@ Approach:
 
 ## Challenge Summary
 
+<img src="https://github.com/e-sycheung/election_analysis/blob/main/Practice_Code_%26Img/county_result.png" style=" width: 385px ; height: 250px">
 
 Election-Audit Results: 
 - The total number of votes casted in the precinct for this congressional election: 
