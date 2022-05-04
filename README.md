@@ -73,4 +73,10 @@ By uploaded different voting data files we can run the same calculations in the 
 <img src="https://github.com/e-sycheung/election_analysis/blob/main/Practice_Code_%26Img/file_to_load.png" style=" width: 480px ; height: 130px">
 
 
-In closer electoral races, the number of eligible voters who didn’t vote is a vital piece of information sought out by different parties. If that total number could be calculated, we can apply the same equation to see the percentage of the population who voted and those who did not. This information could changes the political parties’ efforts and planning during election years as well as an incumbants time in office . We see this in major swing states  as well as in smaller local elections that effect redistricting.  
+In closer electoral races, the number of eligible voters who didn’t vote is a vital piece of information sought out by different parties. If that total number could be calculated, we can apply the same equation to see the percentage of the population who voted and those who did not. This information could changes the political parties’ efforts and planning during election years as well as an incumbants time in office . We see this in major swing states  as well as in smaller local elections that effect redistricting. In this situation our total would be the total eligible votes in the region. A comparative analysis of voters and nonvoters could be analyzed. With the new total variable we could run the same calcaluation for the percentages. 
+
+
+<img src="https://github.com/e-sycheung/election_analysis/blob/main/Practice_Code_%26Img/vote_percentage.png" style=" width: 480px ; height: 130px">
+
+
+
