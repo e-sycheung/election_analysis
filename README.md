@@ -69,4 +69,8 @@ Since the project was commissioned by the Colorado Board of Elections, the Pytho
 
 By uploaded different voting data files we can run the same calculations in the program to compute the result in the other districts. We would change the (file_to_load). If the format and the header of the file remain the same, we wouldn’t have to change the code except the .txt file we would save the result to.
 
+<p align="center">
+<img src="https://github.com/e-sycheung/election_analysis/blob/main/Practice_Code_%26Img/file_to_load.png" style=" width: 500px ; height: 250px">
+</p>
+
 In closer electoral races, the number of eligible voters who didn’t vote is a vital piece of information sought out by different parties. If that total number could be calculated, we can apply the same equation to see the percentage of the population who voted and those who did not. This information could changes the political parties’ efforts and planning during election years as well as an incumbants time in office . We see this in major swing states  as well as in smaller local elections that effect redistricting.  
