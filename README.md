@@ -32,12 +32,21 @@ Overview of Election-Audit:
 
 In addition to the previously performed audit, the Colorado Board of Elections would like to see more result analysis. 
 1. The number of the voter turnout by county. 
-2. The percetage of the voter turnout by county.
+2. The percentage of the voter turnout by county.
 3. The county that had the highest turnout.
+
+Approach:
+1. Read the data files.
+2. Iterate through rows of csv (for loop)
+3. Place conditionals (if statements)
+4. Filter out the candidates and votes
+5. Perform Mathematical Calculations to needed outputs 
+6. Export to .txt file for a clean presentation of results
 
 ## Challenge Summary
 
 ![County Results](/Practice_Code_&Img/county_result.png?raw=true "County Results")
+
 Election-Audit Results: 
 - The total number of votes casted in the precinct for this congressional election: 
     - 369,711 votes.
@@ -56,10 +65,8 @@ Election-Audit Results:
 
 Election-Audit Summary:
 
+Since the project was commissioned by the Colorado Board of Elections, the Python program could easily be applied to other precincts in this Congressional elections as well as local elections within the state.
 
- In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+By uploaded different voting data files we can run the same calculations in the program to compute the result in the other districts. We would change the (file_to_load). If the format and the header of the file remain the same, we wouldn’t have to change the code except the .txt file we would save the result to.
 
-
-
-
-
+In closer electoral races, the number of eligible voters who didn’t vote is a vital piece of information sought out by different parties. If that total number could be calculated, we can apply the same equation to see the percentage of the population who voted and those who did not. This information could changes the political parties’ efforts and planning during election years as well as an incumbants time in office . We see this in major swing states  as well as in smaller local elections that effect redistricting.  
