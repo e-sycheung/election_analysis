@@ -45,7 +45,6 @@ Approach:
 
 ## Challenge Summary
 
-![County Results](/Practice_Code_&Img/county_result.png?raw=true "County Results")
 
 Election-Audit Results: 
 - The total number of votes casted in the precinct for this congressional election: 
